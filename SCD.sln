@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SCD", "SCD\SCD.dtproj", "{9BD22020-D251-44E6-8CB3-C38B9464F0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD22020-D251-44E6-8CB3-C38B9464F0CF}.Development|Default.ActiveCfg = Development
+		{9BD22020-D251-44E6-8CB3-C38B9464F0CF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF75744-E724-41FD-90D2-EF8B4A9A4ECC}
+	EndGlobalSection
+EndGlobal
